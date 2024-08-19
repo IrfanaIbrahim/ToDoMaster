@@ -23,4 +23,4 @@ TodoMaster is a web application designed for managing personal projects and todo
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/YourUsername/ToDoMaster.git
+   git clone https://github.com/IrfanaIbrahim/ToDoMaster.git

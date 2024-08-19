@@ -24,3 +24,20 @@ TodoMaster is a web application designed for managing personal projects and todo
 
    ```bash
    git clone https://github.com/IrfanaIbrahim/ToDoMaster.git
+
+2.**Go to Server/backend folder**
+
+```bash
+   cd todobackend
+
+3.**Run these commands for setting the server:**
+
+npm install
+node server.js
+4.Now Go to Frontend folder:
+
+cd todofrontend
+5.Run the following commands to view the app at http://localhost:3000/:
+
+npm install
+npm start

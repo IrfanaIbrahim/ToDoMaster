@@ -20,24 +20,28 @@ TodoMaster is a web application designed for managing personal projects and todo
 
 ## Getting Started
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/IrfanaIbrahim/ToDoMaster.git
-
-2.**Go to Server/backend folder**
-
-```bash
-   cd todobackend
-
-3.**Run these commands for setting the server:**
-
+1.Clone the repository:
+```bash 
+git clone https://github.com/Yadhu2K1/ToDo-Manager.git
+```
+2.Go to Server Folder:
+```
+cd todoserver
+```
+3.Run these commands for setting the server:
+```
 npm install
 node server.js
-4.Now Go to Frontend folder:
-
-cd todofrontend
+```
+4.Now Go to Frontend folder
+```
+cd todoclient
+```
 5.Run the following commands to view the app at http://localhost:3000/:
-
+```
 npm install
 npm start
+```
+## Note Behind
+
+In this project I have set the Environment variables as my own local host MySQL Workbench. You can either use Online databases from Aiven console or Console Clever Cloud etc.

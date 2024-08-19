@@ -44,4 +44,4 @@ npm start
 ```
 ## Note Behind
 
-In this project I have set the Environment variables as my own local host MySQL Workbench. You can either use Online databases from Aiven console or Console Clever Cloud etc.
+In this project I have set the Environment variables as my own local host MySQL Workbench. You can either use Online databases from Aiven console or Console Clever Cloud etc. And make sure to insert tables in database(user,project,todo).
